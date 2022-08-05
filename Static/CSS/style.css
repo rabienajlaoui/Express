@@ -1,0 +1,27 @@
+*{
+    background-color: aqua;
+}
+
+nav{
+    position: absolute;
+    left: 30%;
+}
+a{
+    padding: 40px;
+    font-weight: bold;
+    text-decoration: none;
+}
+div{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+p{
+    text-align: center;
+}
+input{
+    background-color: white;
+}
+button{
+    background-color: rgb(164, 164, 243);
+}
